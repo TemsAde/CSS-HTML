@@ -1,0 +1,36 @@
+
+
+.header {
+    color: grey;
+    width: 100%;
+    background-color: aquamarine;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 20;
+    text-align: center;
+}
+
+main {
+    padding-top: 80px;
+    color: blue;
+}
+
+article {
+    font-size: 18px;
+}
+
+img {
+    width: 80%;
+    height: 400px;
+}
+
+nav {
+    margin-top: 50px;
+}
+
+a {
+    padding: 30px;
+    font-size: 18px;
+    
+}
